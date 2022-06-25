@@ -1,1 +1,1 @@
-# Bayesian-Blocks
+# Bayesian Blocks
